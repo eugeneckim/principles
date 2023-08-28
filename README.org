@@ -1,0 +1,5 @@
+* Principles
+Commonplace Book Repo
+
+* Content
+- [[agans.org][Agans]] - 9 Rules for Debugging
