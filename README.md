@@ -1,2 +1,0 @@
-# principles
-Commonplace Book Repo
