@@ -2,4 +2,10 @@
 Commonplace Book Repo
 
 * Content
-- [[agans.org][Agans]] - 9 Rules for Debugging
+
+|----------------+-------------------------------------------------------------------------+------------+----------|
+| Author         | Title                                                                   | Date       | Link     |
+|----------------+-------------------------------------------------------------------------+------------+----------|
+| David J. Agans | 9 Rules for Debugging                                                   | 2006/01/01 | [[agans.org][Agans]]    |
+| H.R. McMaster  | Eagle Troop at the Battle of 73 Easting - FOR TODAY'S SMALL UNIT LEADER | 2016/02/26 | [[mcmaster.org][McMaster]] |
+|----------------+-------------------------------------------------------------------------+------------+----------|
