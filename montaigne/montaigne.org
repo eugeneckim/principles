@@ -1,0 +1,735 @@
+* Background
+
+[[./images/montaigne.jpeg]]
+
+A Catalog of Montaigne's Beam Inscriptions
+
+IN THE YEAR OF CHRIST 1571 Michael Montaigne, aged 38, on his
+birthday, the day preceding the Calends of March, already long wearied
+of the servitude of the law-courts, and of public offices, has
+retired, with faculties still entire, to the arms of the learned
+virgins, there to pass in all quiet and security, such length of days
+as remain to him, of his already more than half-spent years, if so the
+fates permit him to finish this abode and these sweet ancestral
+retreats consecrated to his freedom and tranquility and leisure.
+
+Michel de Montaigne had this inscribed, in Latin, above the fireplace
+in a study adjoining in his circular library. These two rooms, the
+library in summer and the study in winter, saw the invention of the
+essay.
+
+Soon after he inscribed the obituary of his public self above the
+fireplace Montaigne probably began painting inscriptions on his
+library's beams. The beams support the roof, keeping out the world and
+its weather. That Montaigne felt the same way about ancient writers is
+obvious, that he chose to show it by naming each of the beams is
+beautiful.
+
+As far as I know this is the first time these have been collected in
+English.
+
+There are two long beams, A and B, onto each of which four phrases are
+inscribed on a decorative band.
+
+[[./images/fireplace.jpeg]]
+
+The rest of the inscriptions are divided between the forty-six smaller
+beams.
+
+
+[[./images/regular_beams.jpeg]]
+
+At least thirteen of the beams have had more than one inscription
+painted on them, one on top of the other. Where it was possible to
+read both, they are marked Bottom Layer and Top Layer.
+
+* Long Beams
+** A
+
+|----+--------------------+---------------------------------------+------------------|
+| ID | Inscription        | Translation                           | Source           |
+|----+--------------------+---------------------------------------+------------------|
+| A1 | IVDICIO ALTERNANTE | [I] Remain poised in the balance...   |                  |
+| A2 | ΑΚΑΤΑΛΗΠΤΩ         | Undecided...                          | Sextus Empiricus |
+| A3 | ΟΥΔΕΝ ΜΑΛΛΟΝ       | One thing being no more than another, | Sextus Empiricus |
+| A4 | ΑΡΡΕΠΩΣ            | [I am] without inclination.           | Sextus Empiricus |
+|----+--------------------+---------------------------------------+------------------|
+
+
+A1 -- IVDICIO ALTERNANTE -- [I] Remain poised in the balance...
+A2 -- ΑΚΑΤΑΛΗΠΤΩ -- Undecided...  (Sextus Empiricus)
+A3 -- ΟΥΔΕΝ ΜΑΛΛΟΝ -- One thing being no more than another, (Sextus Empiricus)
+A4 -- ΑΡΡΕΠΩΣ -- [I am] without inclination. (Sextus Empiricus)
+
+** B
+|----+--------------------+--------------------------------------------------------------------------------+------------------|
+| ID | Inscription        | Translation                                                                    | Source           |
+|----+--------------------+--------------------------------------------------------------------------------+------------------|
+| B1 | ΟΥ ΚΑΤΑΛΑΜΒΑΝΩ     | I do not understand.                                                           | Sextus Empiricus |
+| B2 | ΕΠΕΧΩ              | I stop.                                                                        | Sextus Empiricus |
+| B3 | ΣΚΕΠΤΟΜΑΙ          | I examine.                                                                     | Sextus Empiricus |
+| B4 | MORE DVCE ET SENSV | [I take for my guide] the ways of the world and the experiences of the senses. |                  |
+|----+--------------------+--------------------------------------------------------------------------------+------------------|
+
+B1 -- ΟΥ ΚΑΤΑΛΑΜΒΑΝΩ -- I do not understand. (Sextus Empiricus)
+B2 -- ΕΠΕΧΩ  -- I stop. (Sextus Empiricus)
+B3 -- ΣΚΕΠΤΟΜΑΙ -- I examine. (Sextus Empiricus)
+B4 -- MORE DVCE ET SENSV -- [I take for my guide] the ways of the world and the experiences of the senses.
+
+* First Set of Short Beams
+** 1 - Bottom Layer
+
+ΕΙΗ ΜΟΙ ΖΗΝ ΑΠΟ ΤΩΝ ΟΛΙΓΩΝ ΜΗΔΕΝ ΕΧΟΝΤΙ ΚΑΚΟΝ
+
+One lives but a little, shelter yourself from evil.
+
+(Theognis, from Joannes Stobaeus, Greek anthologist of the 5th Century AD)
+
+** 1 - Top Layer
+
+EXTREMA HOMINI SCIENTIA VT RES SVNT BONI CONSVLERE CÆTERA
+SECVRVM. ECCL.
+
+The ultimate wisdom of man is to consider things as good, and for the
+rest to be untroubled. Ecclesiastes
+
+Note-- these words exist in neither Ecclesiastes nor Ecclesiasticus,
+but probably represent Montaigne's distillation of that book’s spirit.
+
+** 2 - Bottom Layer
+
+ΑΥΤΑΡΚΕΙΑ ΠΡΟΣ ΠΑΣΙΝ ΗΔΟΝΗ ΔΙΚΑΙΑ
+
+Autonomy is the only just pleasure.
+
+(Sotades, from Stobaeus)
+
+** 2 - Top Layer
+
+COGNOSCENDI STVDIVM HOMINI DEDIT DEVS EIVS TORQVENDI GRATIA. ECCL.1.
+
+God gave to man the desire for knowledge for the sake of tormenting
+him. Ecclesiastes 1
+
+Note--This is a paraphrase of Eccl. 1.13, which in Ecclesiasticus runs:
+
+Et proposui in animo meo quaerere et investigare sapienter de omnibus
+quae fiunt sub sole. Hanc occupationem pessimam dedit Deus filiis
+hominum ut occuparentur in ea.
+
+I applied my heart to seek and to search out by wisdom concerning all
+that is done under the sky. It is a heavy burden that God has given to
+the sons of men to be afflicted with.
+
+Montaigne uses this paraphrase in Of Presumption and the Apology for
+Raymond Sebond.
+
+** 3 - Bottom Layer
+
+ΜΑΚΑΡΙΟΣ ΟΣ ΤΙΣ ΟΥΣΙΑΝ ΚΑΙ ΝΟΥΝ ΕΧΕΙ
+
+Happy is he who has fortunes and reason.
+
+(Menander--Mon. 340, from Stobaeus)
+
+** 3 - Top Layer
+
+ΤΟΥΣ ΜΕΝ ΚΕΝΟΥ ΑΣΚΟΥΣ ΤΟ ΠΝΕΥΜΑ ΔΠΣΤΗΣΙ ΤΟΥΣ Δ' ΑΝΘΡΩΠΟΥΣ ΤΟ ΟΙΗΜΑ
+
+As the wind puffs out empty wineskins, so pride of opinion, foolish
+men.
+
+(Socrates in Stobaeus--Florilgium: Of Arrogance)
+
+** 4 - Bottom Layer
+
+ΟΥΠΟΤΕ ΦΗΣΩ ΓΑΜΟΝ ΕΥΦΡΑΙΝΕΙΝ ΠΑΕΟΝ Η ΛΥΠΕΙΝ
+
+Never say that marriage brings more joys than tears.
+
+(Euripides--Alcestis 147, from Stobaeus)
+
+** 4 - Top Layer
+
+OMNIVM QVÆ SVB SOLE SVNT FORTVNA ET LEX PAR EST. ECCL.9.
+
+Everything under the sun follows the same law and the same
+destiny. Ecclesiastes 9.
+
+Note--This reference to Ecclesiastes 9.3 shows up in a slightly
+modified form in Apology for Raymond Sebond: 3.2:
+
+Tout ce qui est sous le ciel, dit le sage, court une loy et fortune
+pareille.
+
+Ecclesiasticus has this as:
+
+Hoc est pessimism inter omnia, quae sub sole fiunt, quia eadem cunctis
+eveniunt.
+
+** 5
+
+ΟΥ ΜΑΛΛΟΝ ΟΥΤΩΣ ΕΧΕΙ Η ΕΚΕΙΝΩΣ Η ΟΥΔΕΤΕΡΟΣ
+
+It is no more in this way than in that, or in neither.
+
+(Aulus Gellius, via Henricius Stephanus’ 1562 annotated edition of
+Sextus Empiricus)
+
+Note--This shows up in Apology for Raymond Sebond: 3.5 referring to the Pyrrhonists as:
+
+Leurs façons de parler sont, 'Je n'etablis rien: II n'est non plus
+ainsi qu'ainsin, ou que ny l’un ny l’autre'...
+
+Their manners of speaking are: ‘I establish nothing; it is no more
+thus than thus or than neither one nor the other...
+
+** 6 - Bottom Layer
+
+DVRVM SED LEVIVS FIT PATIENTIA QVIDQVID CORRIGERE EST NEFAS
+
+It is hard!; but that which we are not permitted to correct is
+rendered lighter by patience.
+
+(Horace--Odes 1.24.19)
+
+** 6 - Top Layer
+
+NVLLIVS VEL MAGNÆ VEL PARVÆ EARVM RERVM QVAS DEVS TAM MVLTAS FECIT
+NOTITIA IN NOBIS EST. ECCL.3.
+
+The notion of everything, large and small, of all the innumerable
+creatures of God, is to be found within us. Ecclesiastes 3[.1]
+
+** 7
+
+ΟΡΩ ΓΑΡ ΗΜΑΣ ΟΝΤΑΣ ΑΛΛΟ ΠΛΑΝ
+
+ΕΙΔΩΛ ' ΟΣΟΙΠΕΡ ΖΘΜΕΝ Η ΚΟΥΦΗΝ ΣΚΙΑΝ
+
+For I see that we are but phantoms,
+
+all we who live, or fleeting shadows.
+
+(Sophocles--Ajax, 125-6, in Stobaeus--Of Arrogance)
+
+** 8
+
+O MISERAS HOMINVM MENTES O PECTORA CÆCA QUALIBVS IN TENEBRIS VITÆ
+QVANTISQ. PERICLIS DEGITVR HOC ÆVI QVODCVNQ. EST
+
+O wretched minds of men! O blind hearts! in what darkness of life and
+in how great dangers is passed this term of life whatever its
+duration.
+
+(Lucretius--De Natura Rerum: II.14)
+
+** 9 - Bottom Layer
+
+ΕΝ ΤΩ ΦΡΟΝΕΙΝ ΓΑΡ ΜΗΔΕΝ ΗΔΙΣΤΟΣ ΒΙΟΣ
+
+ΤΟ ΜΕ ΦΡΟΝΕΙΝ ΓΑΡ ΚΑΡΤ ' ΑΝΩΔΥΝΟΝ ΚΑΚΟΝ
+
+To not think at all is the softest life,
+
+Because not thinking is the most painless evil.
+
+(Sophocles, from Erasmus' collection of aphorisms, the Adagia, first
+published in Paris in 1500)
+
+** 9 - Top Layer
+
+ΚPΙΝΕΙ ΤΙΣ ΑΥΤΟΝ ΠΘΠΟΤΑΝΘΡΩΠΟΝ ΜΕΓΑΡ
+
+ΟΝ ΕΞΑΛΕΙΦΕΙ ΠΡΟΦΑΣΙΣ Η ΤΥΧΟΥΣ ' ΟΛΟΝ
+
+What man will account himself great,
+
+Whom a chance occasion destroys utterly?
+
+(Euripides--[Lost work], in Stobaeus- Of Arrogance)
+
+** 10
+
+[OMNIA CVM CÆLO TERRAQVE MARIQVE SVNT NIHIL AD SVMMAM SVMMAI TOTIVS]
+
+All things, together with heaven and earth and sea, are nothing to the
+sum of the universal sum.
+
+(Lucretius--De Natura Rerum, VI.678-9)
+
+Note--this inscription was restored according to someone's memory of
+what it said, after the replacement of the original beam. This is
+quoted in Apology for Raymond Sebond: 3.5.
+
+** 11
+
+VIDISTI HOMINEM SAPIENTEM SIBI VIDERI MAGIS ILLO SPEM HABEBIT
+INSIPIENS. PROV.26.
+
+The fool has more hope of wisdom than the man who calls himself
+wise. Proverbs 26
+
+Note--The source is Proverbs 26.12:
+Seest thou a man wise in his own conceit?
+there is more hope of a fool than of him.
+
+** 12 - Bottom Layer
+
+NEC NOVA VIVENDO PROCVDITVR VLLA VOLVPTAS
+
+No new delight may be forged by living on.
+
+(Lucretius--De Natura Rerum III.1081)
+
+** 12 - Top Layer
+
+SICVT IGNORAS QVOMODO ANIMA CONIVNGATVR CORPORI SIC NESCIS OPERA
+DEI. ECCL.11 .
+
+You who know nothing of how the soul marries the body, you therefore
+know nothing of God’s works.  Ecclesiastes 11[.5]
+
+** 13
+
+ΕΝΔΕΧΕΤΑΙ ΚΑΙ ΟΥΚ ΕΝΔΕΧΕΤΑΙ
+
+It is possible and it is not possible.
+
+(Sextus Empiricus--Hypotyposes)
+
+** 14
+
+ΑΓΑΘΟΝ ΑΓΑΣΤΟΝ
+
+The good is admirable.
+
+(Plato, via Sextus Empiricus)
+
+Note--This turns up in On Physionomy.
+
+** 15
+
+ΚΕPΑΜΟΣ ΑΝΘPΩΟΣ
+
+A man of clay.
+
+(Saint Paul, via Erasmus)
+
+Note--in Erasmus’ Adagia this shows up as:
+
+Κεραμεύς ανθρωπος, homo fictilis, id est mollis, imbecillis, fragilis.
+
+Man of clay, moldable man, that is soft, stupid, fragile.
+
+* Second Set of Short Beams
+
+** 16 - Bottom Layer
+
+Η ΔΕΙΣΙΔΑΙΜΟΝΙΑ ΚΑΘΑΠΕΡ ΠΑΤΡΙ ΤΩ ΤΥΦΩ ΠΕΙΘΕΤΑΙ
+
+Impiety follows pride like a dog. [lit.: 'like a father is followed']
+
+(Socrates, from Stobaeus)
+
+** 16 - Top Layer
+
+NOLITE ESSE PRVDENTES APVD VOSMETIPSOS. AD ROM.12.
+
+Be not wise in your own conceits.
+
+(Paul’s Epistle to the Romans, 12.)
+
+Note--Laterally below (i.e. not overpainted) this Latin inscription a
+smaller Greek one is just visible:
+
+'Η δεισιδαιμονια καθαπερ πατρι τω τυφω πειθεται.
+
+Superstition obeys conceit as a father.
+
+which is attributed to Socrates in Stobaeus: Apophthegmata, s. 22.
+
+By placing it beneath Paul, Montaigne is trying to imply a connection
+between the two men. Given the number of revisions and overpaintings,
+it seems clear that the inscriptions have a complex and meaningful
+spatial relationship to one another.
+
+In Apology for Raymond Sebond: 3.5:
+
+...ce que dict ce mot grec ancient, que la superstition suyt
+l’orgueil, et luy obeit comme à son pére.
+
+This is perhaps what the ancient Greek maxim says, that superstition
+follows pride and obeys it as if pride were its father.
+
+** 17 - Bottom Layer
+
+SVMMVM NEC METVAM DIEM NEC OPTEM
+
+Neither fear nor desire [your] last day.
+
+(Martial--Epigrams, X.47)
+
+Note--quoted in Essays II.37.
+
+** 17 - Top Layer
+
+ΟΥ ΓΑΡ ΦΡΟΝΕΙΝ Ο ΘΕΟΣ ΜΕΓΑ Α ΑΛΛΟΝ Η ΕΩΓΤΟΝ
+
+God permits no one but Himself to magnify Himself.
+
+(Herodotus--VII.10, from Stobaeus)
+
+Note--quoted in Apology for Raymond Sebond.
+
+** 18 - Bottom Layer
+
+QVO ME CVNQVE RAPIT TEMPESTAS DEFEROR HOSPES
+
+I shelter where the storm drives me.
+
+(Horace--Epistles I.i.14)
+
+** 18 - Top Layer
+
+NESCIS HOMO HOC AN ILLVD MAGIS EXPEDIAT AN ÆQVE VTRVMQVE. ECCL.11.
+
+You are unaware if your interest is here rather than there, or if they
+are alike in value. Ecclesiastes, 11.
+
+Note--this echoes Ecclesiasticus 11.6:
+
+Mane semina semen tuum et vespere ne cesset manus tua; quia nescis
+quid magis oriatur hoc aut illuf et si utrumque simul melius erit.
+
+In the morning sow your seed, and in the evening don’t withhold your
+hand; for you don’t know which will prosper, whether this or that, or
+whether they both will be equally good.
+
+** 19
+
+HOMO SVM HVMANI A ME NIHIL ALIENVM PVTO
+
+I am a man and nothing human is foreign to me.
+
+(Terence--Heauton Timoroumenous ['The Self-Tormentor'])
+
+** 20
+
+NE PLVS SAPIAS QVAM NECESSE EST NE OBSTVPESCAS. ECCL.7.
+
+Be not overwise lest you become senseless. Ecclesiastes 7[.16].
+
+** 21
+
+SI QVIS EXISTIMAT SE ALIQVID SCIRE NONDVM COGNOVIT QVOMODO OPORTEAT
+ILLVD SCIRE. I.COR.8.
+
+If any man thinks he knows anything, he knows nothing. First letter of
+Paul to the Corinthians, 8[.2].
+
+** 22
+
+SI QVIS EXISTIMAT SE ALIQVID ESSE CVM NIHIL SIT IPSE SE SEDVCIT. AD
+GAL.6.
+
+If any man thinks himself to be something, when he is nothing, he
+deceives himself. Letter of Paul to the Galatians, 6[.3].
+
+** 23
+
+NE PLVS SAPITE QVAM OPORTET SED SAPITE AD SOBRIETATEM. AD ROM.12.
+
+Be no wiser than is necessary, but be wise in moderation. Letter of
+Paul to the Romans, 12[.3].
+
+** 24
+
+ΚΑΙ ΤΟ ΜΕΝ ΟΥΝ ΣΑΦΕΣ ΟΥΤΙΣ ΑΝΗΡ ΙΔΕΝ ΟΥΔΕΤΙΣ ΕΖΤΑΙ ΕΙΔΩΣ
+
+No one has ever known the truth and no one will know it.
+
+(Xenophanes, in Diogenes Laertius and Sextus Empiricus)
+
+** 25
+
+ΤΙΣ Δ ' ΟΙΔΕΝ ΕΙ ΖΗΝ ΤΟΥΘ ' Ο ΚΕΚΛΗΤΑΙ ΘΑΝΕΙΝ
+
+ΤΟ ΖΗΝ ΔΕ ΘΝΗΣΚΕΙΝ ΕΣΤΙ
+
+Who knows whether that which we call dying is living,
+
+and living is dying?
+
+(Euripides--fragment of the Phrixus, from Stobaeus- Of the Praise of
+Death)
+
+** 26 - Bottom Layer
+
+ΚΑΛΛΙΣΤΟΝ ΤΟ ΔΙΚΑΙΟΤΑΤΟΝ ΠΑΣΤΟΝ Δ ' ΥΤΙΑΙΝΕΙΝ
+
+Nothing is more beautiful than being just, but nothing is more
+pleasant than being healthy.
+
+(Theognis, from Stobaeus)
+
+** 26 - Top Layer
+
+RES OMNES SVNT DIFFICILIORES QVAM VT EAS POSSIT HOMO CONSEQVI. ECCL.1.
+
+All things are too difficult for man to understand
+them. Ecclesiastes 1.
+
+Note--the Vulgate of Ecclesiastes 1.8 has:
+
+Cunctae res difficiles, non potest eas homo explicare sermone.
+
+All things are wearisome, more than one can say.
+
+** 27
+
+ΕΠΕΩΝ ΔΕ ΠΟΛΥΣ ΝΟΜΟΣ ΕΝΘΑ ΚΑΙ ΕΝΘΑ
+
+Wide is the range of man’s speech, this way and that.
+
+(Homer--Iliad 20.249, from Diogenes Laertius)
+
+** 28
+
+HVMANVM GENVS EST AVIDVM NIMIS AVRICVLARVM
+
+The whole race of man has overgreedy ears.
+
+(Lucretius--De Natura Rerum IV.598)
+
+** 29
+
+QVANTVM EST IN REBVS INANE
+
+How great is the worthlessness of things.
+
+(Persius, I.1)
+
+** 30
+
+PER OMNIA VANITAS. ECCL.1.
+
+All is vanity. Ecclesiastes 1.
+
+Note--the complete Vulgate verse of Ecclesiasticus 1.2 runs:
+
+Vanitas vanitatum, dixit Ecclesiastes: vanitas vanitatum et omnia
+vanitas.
+
+Vanity of vanities, says the Preacher, vanity of vanities; all is
+vanity.
+
+* Third Set of Short Beams
+
+** 31
+
+SERVARE MODVM FINEMQVE TENERA NATVRMQVE SEQVI
+
+To keep within due measure and hold fast the end and follow nature.
+
+(Lucan--Pharsalia II.381-2)
+
+Note- this is a record of what this very short beam once said, it has
+since been replaced and left uninscribed.
+
+** 32
+
+QVID SVPERBIS TERRA ET CINIS. ECCL.10.
+
+Earth and ashes, wherefrom your pride? Ecclesiastes 10
+
+Note--probably a paraphrase of Ecclesiastes 10.9:
+
+Whoever carves out stones may be injured by them. Whoever splits wood
+may be endangered thereby.
+
+** 33
+
+VAE QVI SAPIENTES ESTIS IN OCVLIS VESTRIS. ESA.5.
+
+Woe unto them that are wise in their own eyes. Isaiah 5[.21]
+
+** 34 - Bottom Layer
+
+MORES CVIQVE SVI FINGVNT FORTVNAM
+
+Character is fate. [lit. 'To each the destiny his character makes.']
+
+(Cornelius Nepos, from Erasmus- Adages)
+
+** 34 - Top Layer
+
+FRVERE IVCVNDE PRÆSENTIBVS CÆTERA EXTRA TE. ECCL.3.
+
+Enjoy pleasantly present things, others are beyond thee. Ecclesiastes
+3[.22]
+
+** 35
+
+ΠΑΝΤΙ ΛΟΓΩ ΑΟΓΟΣ ΙΣΟΣ ΑΝΤΙΚΕΙΤΑΙ
+
+To every opinion an opinion of equal weight is opposed.
+
+(Sextus Empiricus--Hypotyposes)
+
+Note--this pull from Sextus Empiricus is almost certainly the source
+for the phrasing of Isaac Newton's famous Lex III:
+
+Actioni contrario semper & aequalem esse reactionem: sive corporam
+duorum actiones in se mutuo semper esse aequales & in partes
+contrarias dirigi.
+
+To every reaction there is always opposed an equal reaction: or, the
+mutual action of two bodies on each other are always equal, and
+directed to contrary parts.
+
+** 36
+
+NOSTRA VAGATVR IN TENEBRIS NEC CÆCA POTEST MENS CERNERE VERVM
+
+Our mind wanders in darkness, and, blind, cannot discern the truth.
+
+(Michel de l’Hôpital--Poem: ‘Ad Margaritam, Regis sororem’ )
+
+Note--The only inscription by a contemporary of Montaigne’s, and a
+sign of the tremendous respect Montaigne held for him.
+
+** 37
+
+FECIT DEVS HOMINEM SIMILEM VMBRÆ DE QVA POST SOLIS OCCASVM QVIS
+IVDICABIT. ECCL.7.
+
+God has made man like a shadow, of which who shall judge after the
+setting of the sun? Ecclesiastes 7.
+
+Note--there is nothing even remotely close to this in chapter 7,
+Ecclesiastes or anywhere else in scripture. And yet in Apology for
+Raymond Sebond: 3.5, Montaigne again attributes this to the Bible:
+
+La saincte Parole declare miserables ceux d’entre nous qui
+s’estiment. Bourbe et cendre, leur dit elle, qu’as tu à te glorfier?
+Et ailleurs: Dier a faict l’homme semblable à l’ombre; de laquelle qui
+jugera quand par l’esloignement de la lumiére elle sera esvanouye?
+
+Holy Scripture declares miserable those who think well of themselves:
+"Dust and ashes," it says to them, "what have you to glory in?" And
+elsewhere: "God has made man like the shadow; who can say of it when
+it will have vanished with the passing of the light?"
+
+** 38
+
+SOLVM CERTVM NIHIL ESSE CERTI ET HOMINE NIHIL MISERIVS AVT SVPERBIVS
+
+The only certainty is that nothing is certain, and that nothing is
+less noble or more proud than man.
+
+(Pliny--Naturalis Historia II.5)
+
+Note--the original text runs:
+
+...solum ut inter ista vel certum sit nihil esse certi nec quicquam
+miserius homine aut superbius.
+
+..that among all of them this alone is certain, that there is nothing
+certain, and that there is nothing more proud or more wretched than
+man.
+
+** 39
+
+EX TOT DEI OPERIBVS NIHILO MAGIS QVIDQVAM HOMINI COGNITVM QVAM VENTI
+VESTIGIVM. ECCL.11.
+
+Of all the works of God nothing is more unknown to any man than the
+track of the wind. Ecclesiastes 11.
+
+Note--this text does not exist in Ecclesiastes. Ecclesiastes 11.4 runs:
+Qui observat ventum, non seminat:
+et qui considerat nubes, nunquam metet;
+He who observes the wind won’t sow;
+and he who regards the clouds won’t reap.
+and so could conceivably be the inspiration for Montaigne’s inscription.
+
+** 40
+
+ΑΛΛΑΟΙΣΙΝ ΑΛΛΟΣ ΘΕΩΝ ΤΕ Κ ' ΑΝΘΡΩΠΩΝ ΜΕΛΕΙ
+
+Each has his own tastes, Gods and men alike.
+
+(Euripides--Hippolytus 104, from Erasmus)
+
+** 41
+
+ΕΦ ' Ω ΦΡΟΝΕΙΣ ΜΕΓΙΣΤΟΝ ΑΠΟΛΕΙ ΤΟΥΤΟ ΣΕ ΤΟ ΔΟΚΕΙΝ ΤΙΝ ' ΕΙΝΑΙ
+
+That on which you so pride yourself will be your ruin, you who think
+yourself to be somebody.
+
+(Menander--fragment of the Empipragmene, from Stobaeus- Of Arrogance)
+
+** 42
+
+ΤΑΡΑΣΣΕΙ ΤΟΥΣ ΑΝΘΡΩΠΟΥΣ ΟΥ ΤΑ ΠΡΑΓΜΑΤΑ
+
+ΑΛΛΑ ΤΑ ΠΕΡΙ ΤΩΝ ΠΡΑΓΜΑΤΩΝ ΔΟΓΜΑΤΑ
+
+That which worries men are not things
+
+but that which they think about them.
+
+(Epictetus--Enchiridion, from Stobaeus- Of Death)
+
+** 43
+
+ΚΑΛΟΝ ΦΡΟΝΕΙΝ ΤΟΝ ΘΝΗΤΟΝ ΑΝΘΡΩΠΟΙΣ ΙΣΑ
+
+It is fitting for a mortal to have thoughts appropriate to men.
+
+(Sophocles--fragment from The Colchians, from Stobaeus- Of Arrogance)
+
+** 44
+
+QVID ÆTERNIS MINOREM CONSILIIS ANIMVM FATIGAS
+
+Why with designs for the far future do you weary a mind that is
+unequal to them?
+
+(Horace--Carmina II.11)
+
+**  45 - Bottom Layer
+
+QVARE IGNORAS QVOMODO ANIMA CONJVGITVR CORPORI NESCIS OPERA
+DEI. ECCL. 11.
+
+As you are ignorant of the way of the spirit, so you do not know the
+works of God. Ecclesiastes 11.
+
+Note--The source is Ecclesiastes 11.5, which in the Vulgate runs:
+
+Quomodo ignoras quae sit via spiritus, et qua ratione compingantur
+ossa in ventre praegnantis, sic nescis opera Dei qui fabricator est
+omnium.
+
+As thou knowest not what is the way of the spirit, nor how the bones
+do grow in the womb of her who is with child, even so thou knowest not
+the works of God who maketh all.
+
+cf. also Apology for Raymond Sebond: 3.5
+
+** 45 - Top Layer
+
+IVDICIA DOMINI ABYSSVS MVLTA. PS.35.
+
+The judgments of the Lord are as a great deep. Psalm 35
+
+** 46
+
+ΟΥΔΕΝ ΟPΙΖΩ
+
+I determine in nothing.
+
+(Sextus Empiricus)
