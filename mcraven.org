@@ -9,8 +9,7 @@
   Assess -> Report -> Contain -> Shape -> Manage
   And inside it says RESOLVE
 
-```mermaid
-
+#+begin_src mermaid
     graph TD
     subgraph Cycle
         Assess --> Report;
@@ -25,7 +24,8 @@
     style Contain fill:#9cf,stroke:#333,stroke-width:2px
     style Shape fill:#c9f,stroke:#333,stroke-width:2px
     style Manage fill:#f9c,stroke:#333,stroke-width:2px  
-```  
+#+end_src
+ 
 
 * 1) First Reports Are Always Wrong
   1. Be very skeptical of first reports.  Take time to verify the
