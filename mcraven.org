@@ -1,0 +1,47 @@
+* Background
+  - Key points taken from the book:
+    Conquering Crisis: Ten Lessons to Learn Before You Need Them
+
+
+* Overview
+- Framework described as the following in a circle:
+
+  Assess -> Report -> Contain -> Shape -> Manage
+  And inside it says RESOLVE
+
+```mermaid
+
+    graph TD
+    subgraph Cycle
+        Assess --> Report;
+        Report --> Contain;
+        Contain --> Shape;
+        Shape --> Manage;
+        Manage --> Assess;
+    end
+
+    style Assess fill:#f9f,stroke:#333,stroke-width:2px
+    style Report fill:#ccf,stroke:#333,stroke-width:2px
+    style Contain fill:#9cf,stroke:#333,stroke-width:2px
+    style Shape fill:#c9f,stroke:#333,stroke-width:2px
+    style Manage fill:#f9c,stroke:#333,stroke-width:2px  
+```  
+
+* 1) First Reports Are Always Wrong
+  1. Be very skeptical of first reports.  Take time to verify the
+     facts.
+  2. Be cautious about making a declarative statement in the first
+     communication up the chain or publicly.
+  3.  Have a corporate procedure for evaluating the quality of the
+     information that is received during the first hours of a crisis.
+
+* 2) Have a Council of Colonels
+
+* 3) Bad News Doesn't Get Better with Age
+* 4) Weaponize the Truth
+* 5) Move All Your Option Forward
+* 6) Trust the Second Law of Thermodynamics
+* 7) Don't Rusth to Failure
+* 8) Micromanagement Is Not an Ugly Word
+* 9) Dictate the Tempo
+* 10) There Is Always Time for a Morale Check
