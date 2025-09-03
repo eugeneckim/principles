@@ -10,37 +10,20 @@
   And inside it says RESOLVE
 
 #+begin_src mermaid
-graph TD
-    subgraph Process Cycle
-        direction LR
-        
-        subgraph Outer Ring
-            direction TB
-            Assess --> Report;
-            Report --> Contain;
-            Contain --> Shape;
-            Shape --> Manage;
-            Manage --> Assess;
-        end
-
-        subgraph Center
-            direction TB
-            Resolve((Resolve))
-        end
+    graph TD
+    subgraph Cycle
+        Assess --> Report;
+        Report --> Contain;
+        Contain --> Shape;
+        Shape --> Manage;
+        Manage --> Assess;
     end
 
-    %% Invisible links to center the Resolve node
-    Resolve ~~~ Assess
-    Resolve ~~~ Contain
-    Resolve ~~~ Manage
-
-    %% Styling
-    style Resolve fill:#666,stroke:#fff,stroke-width:2px,color:#fff
     style Assess fill:#f9f,stroke:#333,stroke-width:2px
     style Report fill:#ccf,stroke:#333,stroke-width:2px
     style Contain fill:#9cf,stroke:#333,stroke-width:2px
     style Shape fill:#c9f,stroke:#333,stroke-width:2px
-    style Manage fill:#f9c,stroke:#333,stroke-width:2px
+    style Manage fill:#f9c,stroke:#333,stroke-width:2px  
 #+end_src
  
 
