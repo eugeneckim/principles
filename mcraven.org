@@ -11,7 +11,7 @@
 
 #+begin_src mermaid
     graph TD
-    subgraph Cycle
+    subgraph Resolve
         Assess --> Report;
         Report --> Contain;
         Contain --> Shape;
@@ -26,13 +26,12 @@
     style Manage fill:#f9c,stroke:#333,stroke-width:2px  
 #+end_src
  
-
 * 1) First Reports Are Always Wrong
   1. Be very skeptical of first reports.  Take time to verify the
      facts.
   2. Be cautious about making a declarative statement in the first
      communication up the chain or publicly.
-  3.  Have a corporate procedure for evaluating the quality of the
+  3. Have a corporate procedure for evaluating the quality of the
      information that is received during the first hours of a crisis.
 
 * 2) Have a Council of Colonels
@@ -41,7 +40,7 @@
 * 4) Weaponize the Truth
 * 5) Move All Your Option Forward
 * 6) Trust the Second Law of Thermodynamics
-* 7) Don't Rusth to Failure
+* 7) Don't Rush to Failure
 * 8) Micromanagement Is Not an Ugly Word
 * 9) Dictate the Tempo
 * 10) There Is Always Time for a Morale Check
